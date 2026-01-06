@@ -18,3 +18,9 @@
   font-size: 1.05rem;
   line-height: 1.7;
 }
+
+/* Remove duplicated site title in footer */
+.site-footer .site-title {
+  display: none;
+}
+
