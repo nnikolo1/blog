@@ -1,3 +1,8 @@
 theme: minima
 title: "My TILs"
 
+show_excerpts: false
+minima:
+  social_links: {}
+
+
