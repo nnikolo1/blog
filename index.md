@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My TILs
+title: TILs
 ---
 
 <ul>
