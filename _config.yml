@@ -1,7 +1,7 @@
 theme: minima
 title: "TILs"
 
-show_excerpts: false
+#show_excerpts: false
 #minima:
 #  social_links: {}
 
