@@ -1,0 +1,20 @@
+---
+---
+
+@import "minima";
+
+/* Hide dates everywhere */
+.post-meta {
+  display: none;
+}
+
+/* Hide post titles metadata line */
+.post-header {
+  margin-bottom: 0;
+}
+
+/* Make posts look like essays */
+.post-content {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
